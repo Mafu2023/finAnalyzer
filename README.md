@@ -1,0 +1,2 @@
+# finAnalyzer
+financial tool 
